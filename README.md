@@ -66,7 +66,7 @@
 
 <!--Profile Visits-->                                                                                                                                          
 <span  align="left">
-<img src="https://github.com/iamthedawn/content/blob/main/tenor%20(1).gif?raw=true" width="70px" />
+
 <br>                                                                                                
 <img src="https://komarev.com/ghpvc/?username=kartik0406&label=Profile%20views&color=grey&style=plastic&label=PROFILE+VIEWS" alt="kartik0406"  /> 
 </span>
