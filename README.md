@@ -11,7 +11,7 @@
 <li> 📚 Pursuing B.Tech in Computer Science and Engineering from <a href="https://vit.ac.in/" target="blank">VIT Vellore</a> </li>
 <li> 📫 How to reach me <a href="mailto:kartikkhanna2000@gmail.com">kartikkhanna2000@gmail.com</a></li>
 <li> 😄 Pronouns: He </li>
-<li> ✍️ Loves to write Code and learn new technolgy </li>
+<li> ✍️ Loves to write Code and learn new technology </li>
 </ul>
 
 <!--PROFILES-->                                                                                                                     
